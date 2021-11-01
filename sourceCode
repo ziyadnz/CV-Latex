@@ -71,7 +71,7 @@
 \begin{document}
 \name{ZİYA DENİZ}
 \tagline{Computer Engineer}
-% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+% Cropped to square from
 %% You can add multiple photos on the left or right
 \photoR{2.5cm}{profile.jpg}
 % \photoL{2cm}{Yacht_High,Suitcase_High}
@@ -137,9 +137,9 @@
 \item To support and help to carry forward teens ideas, I am adding current Hackathons \& GameJam \& Bootcamp etc.
 \end{itemize}
 
-\divider
+\divider\smallskip
 
-\cvevent{Flutter Developper}{CM Information Technologies}{2005 --  2010}{Volunteer}
+\cvevent{Flutter Developper}{CM Information Technologies}{July 2020 -- Sept. 2020}{Volunteer internship}
 \begin{itemize}
 \item Production of mobile applications.
 \item For application used Firebase:
@@ -159,27 +159,35 @@
 % \item Developed targeted advertisement in order to use user's search queries and show them related ads
 % \end{itemize}
 
-\cvsection{Professional Skills}
+\cvsection{Certificates \& Skills  }
 
-\cvtag{ \textcolor{black}{STM CTF'21 (Rank: 40)}}
-\cvtag{ \textcolor{black}{GSB Genç Ideathon (Rank: 3)}}\\
+\cvevent{Certificates}{Coursera}{}{}
+\begin{itemize}
+\item NYU (Introduction to Cyber Attacks) (Mar 27, 2021)
+\item IBM (Introduction to Cybersecurity Tools \& Cyber Attacks) (Jul 12, 2020)
+\item Google (Operating Systems and You: Becoming a Power User) (Jul 16, 2020)
+\item UC SanDiego (Teaching Impacts of Technology: Data Collection, Use, and Privacy) (Jul 18 2020).
+\item UPENN (Cryptocurrency and Blockchain: An Introduction to Digital Currencies) (Nov 10, 2020)
+\item Google (Technical Support Fundamentals) (Jun 15, 2020)
+\item İstanbul Üniversitesi (IoT Güvenliği ve Veri Gizliliği Katılımcı Sertifikası) (Dec 25, 2020)
+\end{itemize}
+\divider\smallskip
+
+
 \cvtag{Linux (Kali)}
-\cvtag{TryHackMe}\\
-
-
-\divider\smallskip
-
-\cvtag{Java (4 years)}
-\cvtag{Flutter \& Dart  (3 years)}
-\cvtag{Python (starter)}
-\cvtag{Spring-Boot (starter)}
-
+\cvtag{HackTheBox}
+\cvtag{TryHackMe}
 
 \divider\smallskip
 
+\cvtag{Java}
+\cvtag{Flutter}
+\cvtag{Python}
+\cvtag{Spring-Boot}
+\cvtag{MySQL (PHP)}
 \cvtag{Firebase (Flutter)}
 \cvtag{MongoDB (Java JPA)}
-\cvtag{MySQL (PHP)}
+
 
 
 
@@ -194,11 +202,25 @@
 
 \cvsection{Education}
 
-\cvevent{Computer Engineering}{Abdullah Gül University}{Sept 2017 -- June 2023}{}
+\cvevent{\textcolor{black}{Computer Engineering (\%100 English)}}{Abdullah Gül University}{Sept 2017 -- June 2023}{}
 
 
-\cvsection{Projects}
-\cvevent{Orteks Cafe}{iOS \& Android}{}{AGU Mobile Programming Lecture}
+\cvsection{Projects \& Competitions}
+\cvevent{STM CTF'21}{Cybersecurity}{22-23 October 2021}{}
+\begin{itemize}
+\item As a team we took 40th place.
+\end{itemize}
+
+\divider
+
+\cvevent{GSB Genç Ideathon}{Ideathon}{10-15 May 2020}{}
+\begin{itemize}
+\item As a team we took 3rd place.
+\end{itemize}
+
+\divider
+
+\cvevent{Orteks Cafe}{iOS \& Android (Flutter)}{}{AGU Mobile Programming Lecture}
 \begin{itemize}
 \item Applied Android's advanced components such as notifications, services, broadcast receivers, content providers, API, Database, Firebase etc. with a 3 people group.
 \item  We use Github to manage version changes. 
@@ -221,11 +243,11 @@
 
 \cvsection{Volunteering Experiences}
 
-\cvachievement{\faTrophy}{IEEE Student Branch \ Board Member}{As a board member played active roles on Arduino teaching, conferences and meetings.}
+\cvachievement{\faTrophy}{IEEE AGU Student Branch \ (Board Member)}{As a board member played active roles on Arduino teaching, conferences and meetings.}
 
 \divider
 
-\cvachievement{\faTeamspeak}{ERU Speaking Club}{Teaching basics of English and preparing exercises.}
+\cvachievement{\faTeamspeak}{ERU Speaking Club (Teacher)}{Teaching basics of English and preparing exercises.}
 
 
 % \cvachievement{\faCircle}{Google's Growth}{from a hundred thousand searches per day to over a billion}
@@ -238,7 +260,7 @@
 
 \cvsection{Languages}
 
-\cvskill{English}{4.5}
+\cvskill{English (C1)}{4.5}
 % \divider
 
 %\cvskill{Spanish}{4}
