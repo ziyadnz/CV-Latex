@@ -123,7 +123,7 @@
 
 \cvevent{Summer Internship}{STM}{July 05 -- August 2021}{Ankara, Turkey}
 \begin{itemize}
-\item Creating remote connection for monitoring computers, save monitoring data to mongoDB for tracking history of computers activities and detecting abnormal activities.
+\item Establishing remote connection to monitor computers, saving monitoring data to mongoDB for detecting abnormal activities from history of computers activities.
 \item Cyber security software development with:
 \\ JAVA \& SpringBoot \& MongoDB \& Vaadin
 \item Project Name: \textcolor{red}{CyDecSys}
@@ -221,7 +221,7 @@
 
 \cvevent{Orteks Cafe}{iOS \& Android (Flutter)}{}{AGU Mobile Programming Lecture}
 \begin{itemize}
-\item Android's advanced components used such as notifications, services, broadcast receivers, content providers, API, sqflite, Firebase etc. Produced by a team of 4 members.
+\item Android's advanced components used notifications, services, broadcast receivers, content providers, API, sqflite, Firebase etc. Produced by a team of 4 members.
 \item  We use Github to manage version changes. 
 \end{itemize}
 
@@ -229,7 +229,7 @@
 
 \cvevent{DApp Contribute Webpage}{Ethereum \& Solidity \& React}{}{AGU Blockchain and Cryptocurrencies Lecture}
 \begin{itemize}
-\item A webpage to vote in the trusted network privately. This let the investors to vote to add a new units into a company. Produced by a team of 2 members.
+\item A web page for voting at the trusted network privately. This let the investors to vote to add a new units into a company. Produced by a team of 2 members.
 \end{itemize}
 
 \divider
@@ -246,7 +246,7 @@
 
 \divider
 
-\cvachievement{\faTeamspeak}{ERU Speaking Club (Teacher)}{Teaching basics of English and preparing exercises.}
+\cvachievement{\faTeamspeak}{ERU Speaking Club (Instructor)}{Teaching basics of English and preparing exercises.}
 
 
 % \cvachievement{\faCircle}{Google's Growth}{from a hundred thousand searches per day to over a billion}
